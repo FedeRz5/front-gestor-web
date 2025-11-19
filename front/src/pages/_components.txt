@@ -1,0 +1,1 @@
+This project uses AG Grid and AG Charts. Components are in pages/ for simplicity.

@@ -1,0 +1,25 @@
+{
+  "name": "gestor-front",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.1",
+    "axios": "^1.7.2",
+    "ag-grid-community": "^32.3.2",
+    "ag-grid-react": "^32.3.2",
+    "ag-charts-community": "^9.1.0",
+    "ag-charts-react": "^9.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}
